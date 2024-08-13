@@ -1,0 +1,44 @@
+header{
+    text-align: center;
+    font-size: large;
+    font-style:italic;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+}
+
+body{
+    background-color: #d5f7f4;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 25px,25px;
+    
+
+
+}
+.header{
+    text-align: center;
+    border:solid 2px black;
+    
+}
+.programming{
+    text-align: center;
+    border: solid 2px black;
+}
+footer{
+    text-align: center;
+    font-style: bold;
+    
+}
+
+.contact{
+    text-align:center;
+    border: solid 2px black;
+}
+
